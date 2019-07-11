@@ -22,7 +22,7 @@ if(condition){
 ## Let's write some If/Else Statements!
 > You will be writing some JavaScript if/else statements to control the response to the users.
 
-##### DRIVING AGE
+##### DRIVING AGE - 5m
 -  Write a [`prompt()`](https://www.w3schools.com/jsref/met_win_prompt.asp) to ask the user for their age.
 - Save the `prompt()` as a variable called `age`
 - Write an if/else statement:
@@ -31,7 +31,7 @@ if(condition){
 - Check to make sure your code works.
 - If everything works, comment out your code.
 
-##### HAPPY SCALE
+##### HAPPY SCALE - 3m
 - Write a `prompt()` to ask the user to rate their happiness on a scale of 1 to 10.
 - Save the `prompt()` as a variable called `happyRating`
 - Write an if/else statement:
@@ -40,7 +40,7 @@ if(condition){
 - Check to make sure your code works.
 - If everything works, comment out your code.
 
-##### BIRTHDAY?
+##### BIRTHDAY? - 4m
 - Ask the user if it's their birthday today.
 - Save their response as a variable called `birthdayIsToday`
 - If it's their birthday. Tell them, "HAPPY BIRTHDAY!!" otherwise, say "Good Day, Mate!"
@@ -48,7 +48,7 @@ if(condition){
 - If everything works, comment out your code.
 
 
-##### TACOS
+##### TACOS - 4m
 - Ask the user which taco they want: chicken or steak.
 - Save the response in a variable.
 - Write an if/else statement
@@ -58,11 +58,11 @@ if(condition){
 - Check to make sure your code works.
 - If everything works, comment out your code.
 
-##### WHAT IS YOUR FAVORITE COLOR IN THE RAINBOW?
+##### WHAT IS YOUR FAVORITE COLOR IN THE RAINBOW? - 8m
 - Ask the user what their favorite color in the rainbow is (red, orange, yellow, green, blue, indigo, violet).
 - Save the response in a variable
 - Write an if/else statement
-  - If the user says red, respond accordingly
+  - If the user says red, respond accordingly. Possible response: "Red is my favorite color too!"
   - Else if the user says orange, respond accordingly
   - Else if the user says yellow, respond accordingly ... continue through the rest of the colors
   - Else (if) the user picks and invalid option (a color that is not in the rainbow), respond accordingly
@@ -70,7 +70,7 @@ if(condition){
 - If everything works, comment out your code.
 
 
-##### THIRSTY?/HUNGRY?
+##### THIRSTY?/HUNGRY? - 12m
 - Ask the user if they are hungry.
 - Save the response as a variable.
 - Ask the user if they are thirsty.
