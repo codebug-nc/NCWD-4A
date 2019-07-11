@@ -15,9 +15,9 @@ if(condition){
   - Choose "Inspect"
   - Make sure you on viewing the "Console"
 - Look in the `script.js` file. 
-  - Add a line in the `script.js` file that says `console.log('Test!')`
+  - Add a line in the `script.js` file that says `console.log('Test!');`
 - Refresh your page in Chrome. You should see the word Test! in the developer tools console. This means that everything is set up correctly.
-- Delete the `console.log('Test!')` now that we know everything is working
+- Delete the `console.log('Test!');` now that we know everything is working
 
 ## Let's write some If/Else Statements!
 > You will be writing some JavaScript if/else statements to control the response to the users.
